@@ -1,0 +1,10 @@
+Name: Sana Shariq
+
+Functional Requirement:
+The system shall allow IAM administrators to create, disable, and assign roles to user accounts.
+
+Nonfunctional Requirement:
+The system shall respond to login requests within 3 seconds under normal load.
+
+Proposed IAM Feature:
+Multi-factor authentication (MFA) for all faculty and staff accounts.
